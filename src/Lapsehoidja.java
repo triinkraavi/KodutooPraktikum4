@@ -17,6 +17,6 @@ public class Lapsehoidja {
 
     @Override
     public String toString() {
-        return firmasiseneNr + " " + lapsehoidjaNimi;
+        return firmasiseneNr + " " + lapsehoidjaNimi + "\n";
     }
 }
